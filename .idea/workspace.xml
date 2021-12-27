@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9bf1e75-9efe-4f3e-9951-ff481794fbff" name="Changes" comment="" />
+    <list default="true" id="c9bf1e75-9efe-4f3e-9951-ff481794fbff" name="Changes" comment="Init commit.">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640611708987</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init commit.">
+      <created>1640612161839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640612161839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -47,5 +57,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit." />
   </component>
 </project>
